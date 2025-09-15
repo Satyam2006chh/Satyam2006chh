@@ -1,5 +1,4 @@
 
-Conversation with Gemini
 
 # 💫 About Me:
 
