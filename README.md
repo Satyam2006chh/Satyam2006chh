@@ -1,47 +1,27 @@
-🚀 Hi, I'm Satyam — Azure-Certified Full-Stack Developer | AI & Data Science Enthusiast
-
-I'm a passionate developer who loves turning ideas into production-ready applications.
-From full-stack web apps to AI-powered systems, I thrive on building solutions that are clean, scalable, and impactful.
-
-Currently deep-diving into Artificial Intelligence, LLMs, and Data Science, while also strengthening cloud expertise with Azure.
-
-🌐 Connect With Me
+# 💫 About Me:
+<br>Azure-Certified Full-Stack Developer | Aspiring Data Scientist | AI & LLM Enthusiast<br><br>🌟 Summary<br>I am an Azure-Certified Full-Stack Developer and aspiring Data Scientist with a strong passion for building intelligent, data-driven solutions. Skilled in Python, Flask, Django, SQL, and Excel, I specialize in creating seamless web applications and extracting actionable insights from complex datasets. Currently, I am expanding my expertise in Artificial Intelligence (AI) and Large Language Models (LLMs) to design scalable, AI-powered applications that solve real-world problems.<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyam-chhabra-031083332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamwwe47@gmail.com) 
 
-
-💻 Tech Stack
-
-Here’s a cleaner and more visually attractive stack section using Skillicons.dev for beautiful icons:
-
+💻 Tech Stack:
 Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" /> </p>
 Frameworks & Libraries
-<p align="left"> <img src="https://skillicons.dev/icons?i=django,flask,fastapi,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=django,flask,fastapi,bootstrap" /> </p>
 Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> </p>
 Cloud & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=azure" /> </p>
-Data Science Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,matplotlib,numpy,pandas" /> </p>
-🌟 About Me
+<p> <img src="https://skillicons.dev/icons?i=azure" /> </p>
+Data Science
+<p> <img src="https://skillicons.dev/icons?i=numpy,pandas" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Satyam2006chh&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Satyam2006chh&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2006chh&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💡 Azure-Certified Full-Stack Developer
-📊 Aspiring Data Scientist
-🤖 AI & LLM Enthusiast
+---
+[![](https://visitcount.itsvg.in/api?id=Satyam2006chh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I specialize in:
-
-Building scalable web applications with Flask, Django & FastAPI
-
-Designing SQL-driven architectures
-
-Creating dashboards, visualizations & analysis workflows
-
-Experimenting with AI agents, automation & LLM-based solutions
-
-I love transforming raw ideas into working systems — fast, clean, and with real-world impact.
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Satyam2006chh&theme=tokyonight&hide_border=false&show_icons=true" height="160"/> <img src="https://nirzak-streak-stats.vercel.app/?user=Satyam2006chh&theme=tokyonight&hide_border=false" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2006chh&theme=tokyonight&layout=compact&hide_border=false" height="160"/> </p>
-👀 Profile Visits
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
