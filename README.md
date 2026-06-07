@@ -6,10 +6,9 @@
 <br>
 
 <div align="center">
-  <h1 align="center">Hi there, I'm Satyam 👋</h1>
-  <p align="center">
-    <i>AI Software Engineer | LLM & RAG Specialist | Full-Stack Developer</i>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Satyam+👋" alt="Hi there, I'm Satyam" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=A1A1AA&center=true&vCenter=true&width=800&lines=AI+Software+Engineer+%7C+LLM+%26+RAG+Specialist+%7C+Full-Stack+Developer" alt="Subtitle" />
 </div>
 
 ---
