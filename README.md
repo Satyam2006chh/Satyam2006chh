@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- IMPORTANT: Put the generated 'banner.png' file in the same repository folder for this image to show up! -->
-  <img src="banner.png" alt="AI Software Engineer Banner" width="100%">
+  <!-- AI Banner created via SVG for ultra-wide, high-quality rendering -->
+  <img src="banner.svg" alt="AI Software Engineer Banner" width="100%">
 </div>
 
 <br>
