@@ -1,829 +1,249 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1200 375"
-     width="100%"
-     height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 375" width="100%" height="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowZmViN2FjNS1lNzQyLTQ4YzEtOGNiMi1jOWM0YWQzNmNkOGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDvlYMxqGFUlSSnV7MSNgPYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplNmRmZjk5Yy02NjVjLTQyMjktOGNjMi0zMjY2YjRlZGYxY2NscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoKJnq7KEwEsO1xzfx6rfK8wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggYmXvRhvl0QN8sOJE8NBwvtccmCRqDRGLfHIEzWY+zgCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaK8ymCqIn9VbAY06fDdOFyAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDqxyxTcRaqXEFioEZLfIu9g8Zvqwg7lzsgtNDojhb0lmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiZZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBmZWI3YWM1LWU3NDItNDhjMS04Y2IyLWM5YzRhZDM2Y2Q4Yi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAyYjc3YzI5LWEyZjctNGMyMS04YTQ3LWZkODlhZDc5YTY2ZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBiZe9GG+XRA3yw4kTw0HC+1xyYJGoNEYt8cgTNZj7OAKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKvw66UMffjLkw0E34f3NKAJxz4VA+KOLCZNeIZ3HDyiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg93boDj9mORYsVs1GWatQQbOGG3pZCnZ0W+p7ncNW45h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBUjgLgHOkmjjbAzIuX0jsLy4AyBf4obsVx113mGh/eXqAdCWZz6V+WCJUooG/oRdeGdbfUOF0yb1PhBbh/lvxw=</c2pa:manifest></metadata>
 
   <defs>
-
-    <!-- Background -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#03070b"/>
       <stop offset="45%" stop-color="#07111a"/>
       <stop offset="100%" stop-color="#020407"/>
     </linearGradient>
 
-    <!-- Blue -->
     <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
       <stop offset="100%" stop-color="#60a5fa"/>
     </linearGradient>
 
-    <!-- Purple -->
-    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#c084fc"/>
     </linearGradient>
 
-    <!-- Grid -->
-    <pattern id="grid"
-             width="32"
-             height="32"
-             patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32"
-            fill="none"
-            stroke="#ffffff"
-            stroke-width="0.5"
-            stroke-opacity="0.035"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.035"/>
     </pattern>
 
-    <!-- Ambient blue glow -->
     <radialGradient id="blueGlow">
       <stop offset="0%" stop-color="#1686d9" stop-opacity=".20"/>
       <stop offset="100%" stop-color="#1686d9" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Globe -->
-    <radialGradient id="globe"
-                    cx="45%"
-                    cy="45%"
-                    r="65%">
+    <radialGradient id="globe" cx="45%" cy="45%" r="65%">
       <stop offset="0%" stop-color="#172b3d"/>
       <stop offset="55%" stop-color="#071522"/>
       <stop offset="100%" stop-color="#02070d"/>
     </radialGradient>
 
-    <!-- Cards -->
-    <linearGradient id="card"
-                    x1="0%"
-                    y1="0%"
-                    x2="100%"
-                    y2="100%">
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0c1823"/>
       <stop offset="100%" stop-color="#050b11"/>
     </linearGradient>
 
-    <!-- Glow -->
-    <filter id="glow"
-            x="-100%"
-            y="-100%"
-            width="300%"
-            height="300%">
-      <feGaussianBlur stdDeviation="4"
-                      result="blur"/>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Globe clipping -->
+    <!-- FIX: globe smaller + moved right so nothing is cut off on the left -->
     <clipPath id="globeClip">
-      <circle cx="145"
-              cy="190"
-              r="155"/>
+      <circle cx="160" cy="188" r="140"/>
     </clipPath>
-
   </defs>
 
 
-  <!-- ====================================================== -->
-  <!-- BACKGROUND -->
-  <!-- ====================================================== -->
-
-  <rect width="1200"
-        height="375"
-        fill="url(#bg)"/>
-
-  <rect width="1200"
-        height="375"
-        fill="url(#grid)"/>
-
-  <ellipse cx="180"
-           cy="180"
-           rx="300"
-           ry="270"
-           fill="url(#blueGlow)"/>
+  <!-- ================= BACKGROUND ================= -->
+  <rect width="1200" height="375" fill="url(#bg)"/>
+  <rect width="1200" height="375" fill="url(#grid)"/>
+  <ellipse cx="180" cy="180" rx="300" ry="270" fill="url(#blueGlow)"/>
 
 
-  <!-- ====================================================== -->
-  <!-- RIGHT SIDE MOUNTAINS -->
-  <!-- ====================================================== -->
-
+  <!-- ================= MOUNTAINS (right) ================= -->
   <g opacity=".42">
-
-    <path d="
-      M570 290
-      L650 225
-      L685 260
-      L735 195
-      L770 235
-      L820 175
-      L855 235
-      L900 200
-      L945 250
-      L990 205
-      L1035 250
-      L1090 215
-      L1160 270
-      L1200 250
-      L1200 375
-      L570 375 Z"
-      fill="#071019"/>
-
-    <path d="
-      M720 300
-      L790 245
-      L830 275
-      L875 215
-      L915 260
-      L960 225
-      L1010 270
-      L1050 235
-      L1100 280
-      L1150 250
-      L1200 285
-      L1200 375
-      L720 375 Z"
-      fill="#0b151e"/>
-
-    <path d="
-      M890 315
-      C950 280 1000 295 1045 275
-      C1090 255 1130 285 1200 260
-      L1200 375
-      L890 375 Z"
-      fill="#050b10"/>
-
+    <path d="M570 290 L650 225 L685 260 L735 195 L770 235 L820 175 L855 235 L900 200 L945 250 L990 205 L1035 250 L1090 215 L1160 270 L1200 250 L1200 375 L570 375 Z" fill="#071019"/>
+    <path d="M720 300 L790 245 L830 275 L875 215 L915 260 L960 225 L1010 270 L1050 235 L1100 280 L1150 250 L1200 285 L1200 375 L720 375 Z" fill="#0b151e"/>
+    <path d="M890 315 C950 280 1000 295 1045 275 C1090 255 1130 285 1200 260 L1200 375 L890 375 Z" fill="#050b10"/>
   </g>
 
 
-  <!-- ====================================================== -->
-  <!-- GLOBE -->
-  <!-- ====================================================== -->
+  <!-- ================= GLOBE ================= -->
+  <circle cx="160" cy="188" r="140" fill="url(#globe)" stroke="#4da9e8" stroke-opacity=".55" stroke-width="1.5"/>
+  <circle cx="160" cy="188" r="146" fill="none" stroke="#38bdf8" stroke-opacity=".12" stroke-width="2"/>
 
-  <circle cx="145"
-          cy="190"
-          r="155"
-          fill="url(#globe)"
-          stroke="#4da9e8"
-          stroke-opacity=".55"
-          stroke-width="1.5"/>
-
-  <circle cx="145"
-          cy="190"
-          r="161"
-          fill="none"
-          stroke="#38bdf8"
-          stroke-opacity=".12"
-          stroke-width="2"/>
-
-
-  <!-- Globe latitude / longitude -->
-
-  <g clip-path="url(#globeClip)"
-     fill="none"
-     stroke="#7dd3fc"
-     stroke-opacity=".14"
-     stroke-width=".8">
-
-    <ellipse cx="145" cy="190"
-             rx="155" ry="55"/>
-
-    <ellipse cx="145" cy="190"
-             rx="155" ry="105"/>
-
-    <ellipse cx="145" cy="190"
-             rx="155" ry="135"/>
-
-    <ellipse cx="145" cy="190"
-             rx="65" ry="155"/>
-
-    <ellipse cx="145" cy="190"
-             rx="115" ry="155"/>
-
-    <ellipse cx="145" cy="190"
-             rx="145" ry="155"/>
-
+  <!-- Latitude / longitude lines -->
+  <g clip-path="url(#globeClip)" fill="none" stroke="#7dd3fc" stroke-opacity=".14" stroke-width=".8">
+    <ellipse cx="160" cy="188" rx="140" ry="50"/>
+    <ellipse cx="160" cy="188" rx="140" ry="95"/>
+    <ellipse cx="160" cy="188" rx="140" ry="122"/>
+    <ellipse cx="160" cy="188" rx="58"  ry="140"/>
+    <ellipse cx="160" cy="188" rx="104" ry="140"/>
+    <ellipse cx="160" cy="188" rx="131" ry="140"/>
   </g>
 
-
-  <!-- ====================================================== -->
-  <!-- ABSTRACT CONTINENTS -->
-  <!-- ====================================================== -->
-
+  <!-- Continents + city lights (shifted to sit inside the new globe) -->
   <g clip-path="url(#globeClip)">
+    <g transform="translate(15,-2)">
+      <path d="M80 85 L105 72 L130 80 L142 101 L132 122 L150 140 L137 159 L118 151 L103 166 L88 153 L70 158 L60 137 L67 115 L54 99 Z" fill="#0b1c28" opacity=".95"/>
+      <path d="M168 75 L194 83 L207 101 L196 119 L207 137 L188 149 L176 139 L159 147 L151 125 L163 108 L151 93 Z" fill="#0a1b27" opacity=".9"/>
+      <path d="M155 157 L180 151 L198 166 L187 184 L197 201 L181 217 L160 208 L148 189 L136 174 Z" fill="#091822" opacity=".9"/>
 
-    <path d="
-      M80 85
-      L105 72
-      L130 80
-      L142 101
-      L132 122
-      L150 140
-      L137 159
-      L118 151
-      L103 166
-      L88 153
-      L70 158
-      L60 137
-      L67 115
-      L54 99 Z"
-      fill="#0b1c28"
-      opacity=".95"/>
-
-    <path d="
-      M168 75
-      L194 83
-      L207 101
-      L196 119
-      L207 137
-      L188 149
-      L176 139
-      L159 147
-      L151 125
-      L163 108
-      L151 93 Z"
-      fill="#0a1b27"
-      opacity=".9"/>
-
-    <path d="
-      M155 157
-      L180 151
-      L198 166
-      L187 184
-      L197 201
-      L181 217
-      L160 208
-      L148 189
-      L136 174 Z"
-      fill="#091822"
-      opacity=".9"/>
-
-
-    <!-- City lights -->
-
-    <g fill="#f8d9a3"
-       filter="url(#glow)">
-
-      <circle cx="105" cy="112" r="1.4"/>
-      <circle cx="119" cy="125" r="1.1"/>
-      <circle cx="132" cy="137" r="1.5"/>
-      <circle cx="143" cy="151" r="1.2"/>
-      <circle cx="157" cy="165" r="1.5"/>
-      <circle cx="170" cy="177" r="1.2"/>
-      <circle cx="180" cy="191" r="1.5"/>
-      <circle cx="191" cy="205" r="1"/>
-      <circle cx="118" cy="151" r="1"/>
-      <circle cx="92" cy="135" r="1"/>
-      <circle cx="160" cy="120" r="1.1"/>
-
+      <g fill="#f8d9a3" filter="url(#glow)">
+        <circle cx="105" cy="112" r="1.4"/>
+        <circle cx="119" cy="125" r="1.1"/>
+        <circle cx="132" cy="137" r="1.5"/>
+        <circle cx="143" cy="151" r="1.2"/>
+        <circle cx="157" cy="165" r="1.5"/>
+        <circle cx="170" cy="177" r="1.2"/>
+        <circle cx="180" cy="191" r="1.5"/>
+        <circle cx="191" cy="205" r="1"/>
+        <circle cx="118" cy="151" r="1"/>
+        <circle cx="92"  cy="135" r="1"/>
+        <circle cx="160" cy="120" r="1.1"/>
+      </g>
     </g>
-
   </g>
 
 
-  <!-- ====================================================== -->
-  <!-- ORBITAL NETWORK -->
-  <!-- ====================================================== -->
-
+  <!-- ================= ORBITAL RINGS (resized to stay inside banner) ================= -->
   <g fill="none">
-
-    <ellipse cx="145"
-             cy="190"
-             rx="205"
-             ry="85"
-             transform="rotate(-24 145 190)"
-             stroke="#38bdf8"
-             stroke-width="1"
-             stroke-opacity=".25"/>
-
-    <ellipse cx="145"
-             cy="190"
-             rx="190"
-             ry="105"
-             transform="rotate(22 145 190)"
-             stroke="#818cf8"
-             stroke-width="1"
-             stroke-opacity=".20"/>
-
-    <ellipse cx="145"
-             cy="190"
-             rx="220"
-             ry="70"
-             transform="rotate(58 145 190)"
-             stroke="#d6a86b"
-             stroke-width=".8"
-             stroke-opacity=".18"/>
-
+    <ellipse cx="160" cy="188" rx="150" ry="60" transform="rotate(-24 160 188)" stroke="#38bdf8" stroke-width="1" stroke-opacity=".28"/>
+    <ellipse cx="160" cy="188" rx="145" ry="85" transform="rotate(22 160 188)"  stroke="#818cf8" stroke-width="1" stroke-opacity=".22"/>
+    <ellipse cx="160" cy="188" rx="160" ry="55" transform="rotate(58 160 188)"  stroke="#d6a86b" stroke-width=".8" stroke-opacity=".20"/>
   </g>
-
 
   <!-- Orbit nodes -->
-
   <g filter="url(#glow)">
-
-    <circle cx="276"
-            cy="126"
-            r="3"
-            fill="#38bdf8"/>
-
-    <circle cx="295"
-            cy="218"
-            r="3"
-            fill="#c084fc"/>
-
-    <circle cx="200"
-            cy="74"
-            r="3"
-            fill="#f1c27d"/>
-
-    <circle cx="76"
-            cy="282"
-            r="3"
-            fill="#38bdf8"/>
-
-    <circle cx="46"
-            cy="157"
-            r="2.5"
-            fill="#ffffff"/>
-
+    <circle cx="282" cy="140" r="3"   fill="#38bdf8"/>
+    <circle cx="290" cy="232" r="3"   fill="#c084fc"/>
+    <circle cx="215" cy="64"  r="3"   fill="#f1c27d"/>
+    <circle cx="92"  cy="298" r="3"   fill="#38bdf8"/>
+    <circle cx="36"  cy="160" r="2.5" fill="#ffffff"/>
   </g>
 
 
-  <!-- ====================================================== -->
-  <!-- MAIN HEADER -->
-  <!-- ====================================================== -->
+  <!-- ================= MAIN HEADER (centered over the card row: x = 555) ================= -->
+  <text x="555" y="135"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="69" font-weight="700" letter-spacing="2"
+        fill="#f8f8f8">SATYAM</text>
 
-  <g transform="translate(315,60)">
+  <!-- FIX: accent line now sits BELOW the name, not over the letters -->
+  <path d="M520 150 C540 143 570 143 590 150"
+        fill="none" stroke="url(#purple)" stroke-width="3.5" stroke-linecap="round"/>
 
-    <!-- NAME -->
-
-    <text x="0"
-          y="75"
-          font-family="Georgia, 'Times New Roman', serif"
-          font-size="69"
-          font-weight="700"
-          letter-spacing="2"
-          fill="#f8f8f8">
-
-      SATYAM
-
-    </text>
+  <text x="555" y="178"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16" font-weight="500" letter-spacing="5"
+        fill="#d1d5db">AI SOFTWARE ENGINEER</text>
 
 
-    <!-- Accent stroke -->
+  <!-- ================= TOP-RIGHT TAGLINE (FIX: merged, no more overlap) ================= -->
 
-    <path d="M145 42
-             C165 31 190 30 215 43"
-          fill="none"
-          stroke="url(#purple)"
-          stroke-width="5"
-          stroke-linecap="round"
-          opacity=".9"/>
+  <!-- Block 1: LEARN / BUILD / SOLVE / GROW -->
+  <g transform="translate(1020,50)">
+    <line x1="0" y1="-10" x2="0" y2="56" stroke="#e2e8f0" stroke-opacity=".55" stroke-width="1"/>
+    <g font-family="Arial, sans-serif" font-size="10" letter-spacing="3" fill="#94a3b8">
+      <text x="16" y="0">LEARN</text>
+      <text x="16" y="18">BUILD</text>
+      <text x="16" y="36">SOLVE</text>
+      <text x="16" y="54">GROW</text>
+    </g>
+  </g>
 
-
-    <!-- ROLE -->
-
-    <text x="31"
-          y="108"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16"
-          font-weight="500"
-          letter-spacing="5"
-          fill="#d1d5db">
-
-      AI SOFTWARE ENGINEER
-
-    </text>
-
+  <!-- Block 2: BUILD INTELLIGENT SOLUTIONS (moved lower, separate from block 1) -->
+  <g transform="translate(1036,150)">
+    <g font-family="Arial, sans-serif" font-size="9" font-weight="500" letter-spacing="2" fill="#64748b">
+      <text x="0" y="0">BUILD</text>
+      <text x="0" y="16">INTELLIGENT</text>
+      <text x="0" y="32">SOLUTIONS</text>
+    </g>
+    <rect x="0" y="44" width="28" height="2" fill="url(#blue)"/>
   </g>
 
 
-  <!-- ====================================================== -->
-  <!-- TOP RIGHT TAGLINE -->
-  <!-- ====================================================== -->
-
-  <g transform="translate(1045,50)">
-
-    <line x1="0"
-          y1="0"
-          x2="0"
-          y2="58"
-          stroke="#e2e8f0"
-          stroke-opacity=".55"
-          stroke-width="1"/>
-
-    <text x="15"
-          y="8"
-          font-family="Arial, sans-serif"
-          font-size="7"
-          letter-spacing="3"
-          fill="#94a3b8">
-      LEARN
-    </text>
-
-    <text x="15"
-          y="24"
-          font-family="Arial, sans-serif"
-          font-size="7"
-          letter-spacing="3"
-          fill="#94a3b8">
-      BUILD
-    </text>
-
-    <text x="15"
-          y="40"
-          font-family="Arial, sans-serif"
-          font-size="7"
-          letter-spacing="3"
-          fill="#94a3b8">
-      SOLVE
-    </text>
-
-    <text x="15"
-          y="56"
-          font-family="Arial, sans-serif"
-          font-size="7"
-          letter-spacing="3"
-          fill="#94a3b8">
-      GROW
-    </text>
-
-  </g>
-
-
-  <!-- ====================================================== -->
-  <!-- CAPABILITY CARDS -->
-  <!-- ====================================================== -->
-
+  <!-- ================= CAPABILITY CARDS ================= -->
   <g transform="translate(315,205)">
 
-
-    <!-- ================= AGENTIC AI ================= -->
-
+    <!-- AGENTIC AI -->
     <g>
+      <rect x="0" y="0" width="105" height="70" rx="6" fill="url(#card)" stroke="#38bdf8" stroke-opacity=".38"/>
+      <path d="M0 15V6Q0 0 6 0H20" fill="none" stroke="#38bdf8" stroke-width="1.5"/>
+      <path d="M85 70H99Q105 70 105 64V55" fill="none" stroke="#38bdf8" stroke-width="1.5"/>
 
-      <rect x="0"
-            y="0"
-            width="105"
-            height="70"
-            rx="6"
-            fill="url(#card)"
-            stroke="#38bdf8"
-            stroke-opacity=".38"/>
-
-      <path d="M0 15V6Q0 0 6 0H20"
-            fill="none"
-            stroke="#38bdf8"
-            stroke-width="1.5"/>
-
-      <path d="M85 70H99Q105 70 105 64V55"
-            fill="none"
-            stroke="#38bdf8"
-            stroke-width="1.5"/>
-
-
-      <!-- Brain -->
-
-      <g transform="translate(52,28)">
-
-        <path d="M-8 -7
-                 C-14 -7 -14 2 -9 4
-                 C-13 9 -9 15 -4 13
-                 C-2 19 7 17 7 11
-                 C14 12 16 4 11 1
-                 C14 -6 7 -11 2 -8
-                 C0 -14 -8 -12 -8 -7Z"
-              fill="none"
-              stroke="#60a5fa"
-              stroke-width="2"/>
-
-        <path d="M0 -9V13
-                 M-7 0H0
-                 M0 5H7"
-              fill="none"
-              stroke="#93c5fd"
-              stroke-width="1.2"/>
-
+      <g transform="translate(52,26)">
+        <path d="M-8 -7 C-14 -7 -14 2 -9 4 C-13 9 -9 15 -4 13 C-2 19 7 17 7 11 C14 12 16 4 11 1 C14 -6 7 -11 2 -8 C0 -14 -8 -12 -8 -7Z" fill="none" stroke="#60a5fa" stroke-width="2"/>
+        <path d="M0 -9V13 M-7 0H0 M0 5H7" fill="none" stroke="#93c5fd" stroke-width="1.2"/>
       </g>
 
-      <text x="52"
-            y="56"
-            text-anchor="middle"
-            font-family="Arial, sans-serif"
-            font-size="8"
-            font-weight="600"
-            letter-spacing="1.5"
-            fill="#f8fafc">
-
-        AGENTIC AI
-
-      </text>
-
+      <text x="52.5" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="1" fill="#f8fafc">AGENTIC AI</text>
     </g>
 
-
-    <!-- ================= FULL STACK ================= -->
-
+    <!-- FULL STACK -->
     <g transform="translate(125,0)">
+      <rect x="0" y="0" width="105" height="70" rx="6" fill="url(#card)" stroke="#818cf8" stroke-opacity=".38"/>
+      <path d="M0 15V6Q0 0 6 0H20" fill="none" stroke="#818cf8" stroke-width="1.5"/>
+      <path d="M85 70H99Q105 70 105 64V55" fill="none" stroke="#818cf8" stroke-width="1.5"/>
 
-      <rect x="0"
-            y="0"
-            width="105"
-            height="70"
-            rx="6"
-            fill="url(#card)"
-            stroke="#818cf8"
-            stroke-opacity=".38"/>
-
-      <path d="M0 15V6Q0 0 6 0H20"
-            fill="none"
-            stroke="#818cf8"
-            stroke-width="1.5"/>
-
-      <path d="M85 70H99Q105 70 105 64V55"
-            fill="none"
-            stroke="#818cf8"
-            stroke-width="1.5"/>
-
-
-      <!-- Code -->
-
-      <g transform="translate(52,28)"
-         fill="none"
-         stroke="#a5b4fc"
-         stroke-width="2"
-         stroke-linecap="round"
-         stroke-linejoin="round">
-
+      <g transform="translate(52,26)" fill="none" stroke="#a5b4fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M-16 0L-7 -8"/>
         <path d="M-16 0L-7 8"/>
         <path d="M16 0L7 -8"/>
         <path d="M16 0L7 8"/>
         <path d="M-2 11L4 -11"/>
-
       </g>
 
-      <text x="52"
-            y="56"
-            text-anchor="middle"
-            font-family="Arial, sans-serif"
-            font-size="8"
-            font-weight="600"
-            letter-spacing="1.5"
-            fill="#f8fafc">
-
-        FULL STACK
-
-      </text>
-
+      <text x="52.5" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="1" fill="#f8fafc">FULL STACK</text>
     </g>
 
-
-    <!-- ================= DATABASES ================= -->
-
+    <!-- DATABASES -->
     <g transform="translate(250,0)">
+      <rect x="0" y="0" width="105" height="70" rx="6" fill="url(#card)" stroke="#22d3ee" stroke-opacity=".38"/>
+      <path d="M0 15V6Q0 0 6 0H20" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
+      <path d="M85 70H99Q105 70 105 64V55" fill="none" stroke="#22d3ee" stroke-width="1.5"/>
 
-      <rect x="0"
-            y="0"
-            width="105"
-            height="70"
-            rx="6"
-            fill="url(#card)"
-            stroke="#22d3ee"
-            stroke-opacity=".38"/>
-
-      <path d="M0 15V6Q0 0 6 0H20"
-            fill="none"
-            stroke="#22d3ee"
-            stroke-width="1.5"/>
-
-      <path d="M85 70H99Q105 70 105 64V55"
-            fill="none"
-            stroke="#22d3ee"
-            stroke-width="1.5"/>
-
-
-      <!-- Database -->
-
-      <g transform="translate(52,28)"
-         fill="none"
-         stroke="#67e8f9"
-         stroke-width="1.8">
-
-        <ellipse cx="0"
-                 cy="-8"
-                 rx="13"
-                 ry="5"/>
-
-        <path d="M-13 -8V9
-                 C-13 15 13 15 13 9
-                 V-8"/>
-
-        <path d="M-13 0
-                 C-13 6 13 6 13 0"/>
-
+      <g transform="translate(52,26)" fill="none" stroke="#67e8f9" stroke-width="1.8">
+        <ellipse cx="0" cy="-8" rx="13" ry="5"/>
+        <path d="M-13 -8V9 C-13 15 13 15 13 9 V-8"/>
+        <path d="M-13 0 C-13 6 13 6 13 0"/>
       </g>
 
-      <text x="52"
-            y="56"
-            text-anchor="middle"
-            font-family="Arial, sans-serif"
-            font-size="8"
-            font-weight="600"
-            letter-spacing="1.5"
-            fill="#f8fafc">
-
-        DATABASES
-
-      </text>
-
+      <text x="52.5" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="1" fill="#f8fafc">DATABASES</text>
     </g>
 
-
-    <!-- ================= CLOUDS ================= -->
-
+    <!-- CLOUDS -->
     <g transform="translate(375,0)">
+      <rect x="0" y="0" width="105" height="70" rx="6" fill="url(#card)" stroke="#d6a86b" stroke-opacity=".40"/>
+      <path d="M0 15V6Q0 0 6 0H20" fill="none" stroke="#d6a86b" stroke-width="1.5"/>
+      <path d="M85 70H99Q105 70 105 64V55" fill="none" stroke="#d6a86b" stroke-width="1.5"/>
 
-      <rect x="0"
-            y="0"
-            width="105"
-            height="70"
-            rx="6"
-            fill="url(#card)"
-            stroke="#d6a86b"
-            stroke-opacity=".40"/>
+      <path d="M38 32 C36 27 39 22 44 22 C47 16 56 16 59 23 C65 22 69 26 68 31 C68 35 65 37 61 37 H43 C39 37 37 35 38 32Z" fill="none" stroke="#f4d5a4" stroke-width="2"/>
 
-      <path d="M0 15V6Q0 0 6 0H20"
-            fill="none"
-            stroke="#d6a86b"
-            stroke-width="1.5"/>
-
-      <path d="M85 70H99Q105 70 105 64V55"
-            fill="none"
-            stroke="#d6a86b"
-            stroke-width="1.5"/>
-
-
-      <!-- Cloud -->
-
-      <path d="M38 34
-               C36 29 39 24 44 24
-               C47 18 56 18 59 25
-               C65 24 69 28 68 33
-               C68 37 65 39 61 39
-               H43
-               C39 39 37 37 38 34Z"
-            fill="none"
-            stroke="#f4d5a4"
-            stroke-width="2"/>
-
-      <text x="52"
-            y="56"
-            text-anchor="middle"
-            font-family="Arial, sans-serif"
-            font-size="8"
-            font-weight="600"
-            letter-spacing="1.5"
-            fill="#f8fafc">
-
-        CLOUDS
-
-      </text>
-
+      <text x="52.5" y="57" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="1" fill="#f8fafc">CLOUDS</text>
     </g>
 
   </g>
 
 
-  <!-- ====================================================== -->
-  <!-- BOTTOM DIVIDER -->
-  <!-- ====================================================== -->
-
-  <line x1="305"
-        y1="300"
-        x2="805"
-        y2="300"
-        stroke="#e2e8f0"
-        stroke-opacity=".30"
-        stroke-width="1"/>
-
-  <polygon points="575,295 580,300 575,305 570,300"
-           fill="#05080d"
-           stroke="#e2e8f0"
-           stroke-opacity=".65"/>
+  <!-- ================= DIVIDER ================= -->
+  <line x1="305" y1="300" x2="805" y2="300" stroke="#e2e8f0" stroke-opacity=".30" stroke-width="1"/>
+  <polygon points="555,295 560,300 555,305 550,300" fill="#05080d" stroke="#e2e8f0" stroke-opacity=".65"/>
 
 
-  <!-- ====================================================== -->
-  <!-- GITHUB -->
-  <!-- ====================================================== -->
-
-  <g transform="translate(345,325)">
-
-    <circle cx="10"
-            cy="0"
-            r="10"
-            fill="#f8fafc"/>
-
-    <path d="M5 -4
-             C3 -2 4 0 5 1
-             C4 4 7 6 9 6
-             C9 8 9 8 10 8
-             C11 8 11 6 11 6
-             C14 6 16 4 15 1
-             C17 -1 17 -3 15 -4
-             C13 -5 12 -5 10 -4
-             C8 -5 7 -5 5 -4Z"
-          fill="#05080d"/>
-
-    <text x="28"
-          y="4"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="11"
-          fill="#cbd5e1">
-
-      github.com/Satyam2006chh
-
-    </text>
-
+  <!-- ================= GITHUB ================= -->
+  <g transform="translate(345,329)">
+    <circle cx="10" cy="0" r="10" fill="#f8fafc"/>
+    <path d="M5 -4 C3 -2 4 0 5 1 C4 4 7 6 9 6 C9 8 9 8 10 8 C11 8 11 6 11 6 C14 6 16 4 15 1 C17 -1 17 -3 15 -4 C13 -5 12 -5 10 -4 C8 -5 7 -5 5 -4Z" fill="#05080d"/>
+    <text x="28" y="4" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#cbd5e1">github.com/Satyam2006chh</text>
   </g>
 
 
-  <!-- ====================================================== -->
-  <!-- EMAIL -->
-  <!-- ====================================================== -->
-
-  <g transform="translate(595,325)">
-
-    <rect x="0"
-          y="-7"
-          width="20"
-          height="14"
-          rx="2"
-          fill="none"
-          stroke="#e2e8f0"
-          stroke-width="1.5"/>
-
-    <path d="M1 -6L10 1L19 -6"
-          fill="none"
-          stroke="#e2e8f0"
-          stroke-width="1.5"/>
-
-    <text x="30"
-          y="4"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="11"
-          fill="#cbd5e1">
-
-      satyam.ai06plac@gmail.com
-
-    </text>
-
-  </g>
-
-
-  <!-- ====================================================== -->
-  <!-- TOP RIGHT MICRO TAGLINE -->
-  <!-- ====================================================== -->
-
-  <g transform="translate(1065,42)">
-
-    <text x="0"
-          y="0"
-          font-family="Arial, sans-serif"
-          font-size="8"
-          font-weight="500"
-          letter-spacing="2"
-          fill="#64748b">
-      BUILD
-    </text>
-
-    <text x="0"
-          y="16"
-          font-family="Arial, sans-serif"
-          font-size="8"
-          font-weight="500"
-          letter-spacing="2"
-          fill="#64748b">
-      INTELLIGENT
-    </text>
-
-    <text x="0"
-          y="32"
-          font-family="Arial, sans-serif"
-          font-size="8"
-          font-weight="500"
-          letter-spacing="2"
-          fill="#64748b">
-      SOLUTIONS
-    </text>
-
-    <rect x="0"
-          y="46"
-          width="24"
-          height="2"
-          fill="url(#blue)"/>
-
+  <!-- ================= EMAIL ================= -->
+  <g transform="translate(590,329)">
+    <rect x="0" y="-7" width="20" height="14" rx="2" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+    <path d="M1 -6L10 1L19 -6" fill="none" stroke="#e2e8f0" stroke-width="1.5"/>
+    <text x="30" y="4" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#cbd5e1">satyam.ai06plac@gmail.com</text>
   </g>
 
 </svg>
