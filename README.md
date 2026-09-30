@@ -1,77 +1,77 @@
 <div align="center">
-  <!-- Banner SVG -->
-  <img src="banner.svg" alt="Satyam Chhabra - AI Software Engineer" width="100%">
+  <img src="banner.svg?v=2" alt="Satyam Chhabra - AI Software Engineer" width="100%">
 </div>
 
 <br>
 
-## 👋 Hi, I'm Satyam Chhabra
+## About Me
 
-Software Engineer combining **Full-Stack Web Development** and **Generative & Agentic AI**, with hands-on experience in **Cloud Deployments (Azure)**. Passionate about building real-world AI applications, scalable microservices, and deploying practical web solutions.
+I am a Software Engineer who combines **Full-Stack Web Development** with **Generative and Agentic AI**, backed by hands-on experience in **Cloud Deployments**. I am passionate about building real-world AI applications, scalable microservices, and practical web solutions that solve genuine problems.
 
-* 💻 **Full-Stack Development:** Building modern reactive UIs, RESTful APIs, and scalable backend services using React, Node.js, and Python.
-* 🤖 **Generative & Agentic AI:** Crafting intelligent LLM workflows, custom RAG pipelines, multi-agent systems, and vector search solutions.
-* ☁️️ **Cloud & DevOps (Learning & Practicing):** Deploying projects using Azure services, containerizing apps with Docker, and hosting on modern platforms like Vercel.
-* 🎯 **Career Focus:** Actively seeking Software Engineering, Full-Stack, and AI/ML entry-level roles.
+My work sits at the intersection of solid software engineering and intelligent systems: applications that are well structured, reliable in production, and meaningfully enhanced by AI.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## Core Expertise
 
-#### 🤖 Generative AI, Agents & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+### Agentic AI
+- Designing intelligent LLM workflows that automate complex, multi-step tasks
+- Building custom Retrieval-Augmented Generation (RAG) pipelines
+- Developing multi-agent systems where specialized agents collaborate
+- Implementing vector search solutions for semantic retrieval
 
-#### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-</p>
+### Full-Stack Development
+- Building modern, reactive user interfaces
+- Designing and developing RESTful APIs
+- Creating scalable backend services and microservices
+- Delivering complete applications from interface to deployment
 
-#### 💻 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+### Databases
+- Designing data models for both structured and unstructured data
+- Integrating databases cleanly with backend services and AI pipelines
+- Supporting search and retrieval workloads for AI-driven applications
 
-#### ☁️ Cloud, Databases & Developer Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+### Cloud and Deployment
+- Deploying projects on cloud platforms
+- Containerizing applications for consistent, portable environments
+- Hosting and shipping applications on modern deployment platforms
+- Currently learning and practicing cloud and DevOps workflows
 
 ---
 
-### 📫 Connect & Reach Me
+## What I Build
 
-<p align="left">
-  <a href="mailto:satyamwwe47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-satyamwwe47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Satyam2006chh">
-    <img src="https://img.shields.io/badge/GitHub-Satyam2006chh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- **AI-powered applications** that turn language models into useful, dependable products
+- **Scalable web platforms** with clean architecture and maintainable code
+- **Microservices and APIs** designed for reliability and growth
+- **End-to-end solutions** that cover the interface, backend, data layer, and deployment
+
+---
+
+## Approach
+
+- **Learn** - continuously build depth across software engineering and AI
+- **Build** - ship real projects, not just prototypes
+- **Solve** - focus on practical problems with clear outcomes
+- **Grow** - improve through iteration, feedback, and hands-on practice
+
+---
+
+## Career Focus
+
+I am actively seeking **Software Engineering**, **Full-Stack**, and **AI/ML** entry-level roles where I can contribute to meaningful products while continuing to grow alongside an experienced team.
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| **Email** | [satyam.ai06plac@gmail.com](mailto:satyam.ai06plac@gmail.com) |
+| **GitHub** | [github.com/Satyam2006chh](https://github.com/Satyam2006chh) |
+
+<br>
+
+<div align="center">
+  <sub>Build intelligent solutions.</sub>
+</div>
