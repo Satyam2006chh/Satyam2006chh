@@ -1,25 +1,25 @@
 <div align="center">
-  <!-- Banner kept exactly as requested -->
-  <img src="banner.svg" alt="AI Software Engineer Banner" width="100%">
+  <!-- Banner SVG -->
+  <img src="banner.svg" alt="Satyam Chhabra - AI Software Engineer" width="100%">
 </div>
 
 <br>
 
 ## 👋 Hi, I'm Satyam Chhabra
 
-Software Engineer bridging **Full-Stack Web Development**, **Generative & Agentic AI**, and **Cloud Infrastructure (Azure)**. I build scalable end-to-end applications, design autonomous AI agent workflows, and deploy resilient cloud services.
+Software Engineer combining **Full-Stack Web Development** and **Generative & Agentic AI**, with hands-on experience in **Cloud Deployments (Azure)**. Passionate about building real-world AI applications, scalable microservices, and deploying practical web solutions.
 
-* **💻 Full-Stack Development:** Modern reactive UIs, RESTful microservices, and high-throughput backend APIs.
-* **🤖 Generative & Agentic AI:** LLM applications, custom RAG pipelines, multi-agent frameworks, and vector search systems.
-* **☁️ Cloud & DevOps:** Azure cloud ecosystem, containerization with Docker, serverless deployments, and database architecture.
-* **🎯 Open to Opportunities:** Actively seeking Software Engineering roles across Full-Stack, AI/ML, and Cloud domains.
+* 💻 **Full-Stack Development:** Building modern reactive UIs, RESTful APIs, and scalable backend services using React, Node.js, and Python.
+* 🤖 **Generative & Agentic AI:** Crafting intelligent LLM workflows, custom RAG pipelines, multi-agent systems, and vector search solutions.
+* ☁️️ **Cloud & DevOps (Learning & Practicing):** Deploying projects using Azure services, containerizing apps with Docker, and hosting on modern platforms like Vercel.
+* 🎯 **Career Focus:** Actively seeking Software Engineering, Full-Stack, and AI/ML entry-level roles.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 #### 🤖 Generative AI, Agents & Data
-p<p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
@@ -49,7 +49,7 @@ p<p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-#### ☁️ Cloud, Databases & DevOps
+#### ☁️ Cloud, Databases & Developer Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -65,13 +65,13 @@ p<p align="left">
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect & Reach Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:satyamwwe47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-satyamwwe47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/Satyam2006chh">
+    <img src="https://img.shields.io/badge/GitHub-Satyam2006chh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
